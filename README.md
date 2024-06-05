@@ -1,3 +1,5 @@
+# Modified from https://github.com/ZmengXu/PLOGArrheniusReactions (OpenFOAM-8)
+
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-8-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-8)
 # PLOGArrheniusReactions
 A library for OpenFOAM to handel the `PLOG` keywords in reactions. This has been reported but [has not yet been solved](https://bugs.openfoam.org/view.php?id=3523).
