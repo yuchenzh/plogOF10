@@ -1,8 +1,11 @@
 # Modified from https://github.com/ZmengXu/PLOGArrheniusReactions (OpenFOAM-8)
 
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-10-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-10)
+[![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-11-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-11)
+
 # PLOGArrheniusReactions
 A library for OpenFOAM to handel the `PLOG` keywords in reactions. This has been reported but [has not yet been solved](https://bugs.openfoam.org/view.php?id=3523).
+Note, this version works for both OpenFOAM-10 and OpenFOAM-11.
 
 > For more information, please refer to the [defination of PLOG](http://engine.princeton.edu/modelreduction/PLOG-documents/PLOG-software_distribution.pdf), and also the `Troe` keyword in the OpenFOAM [source code](https://github.com/OpenFOAM/OpenFOAM-8/blob/master/src/thermophysicalModels/specie/reaction/reactionRate/fallOffFunctions/TroeFallOffFunction/TroeFallOffFunction.H).
 
